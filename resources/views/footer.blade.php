@@ -27,4 +27,6 @@
         <div class="footer_text copyrt">{{__('language.footerCopy')}}</div>
     </div>
 </footer>
+
+
 <script src="/js/script.js"></script>
