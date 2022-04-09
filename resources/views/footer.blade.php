@@ -13,7 +13,7 @@
             <li><a href=@if( Config::get("app.locale") == 'en') "/privacy" @else "/in-hi/privacy" @endif class="footer_text footer_a">{{__('language.footer11')}}</a></li>
             <li><a href="#" class="footer_text footer_a">{{__('language.footer12')}}</a></li>
             <li><a href=@if( Config::get("app.locale") == 'en') "/corpinfo" @else "/in-hi/corpinfo" @endif class="footer_text footer_a">{{__('language.footer13')}}</a></li>
-            <li><a href="https://kaustubhvats-portfolio.netlify.app/#contact" target="_blank" class="footer_text footer_a">{{__('language.footer14')}}</a></li>   
+            <li><a href="https://help.netflix.com/en/contactus" target="_blank" class="footer_text footer_a">{{__('language.footer14')}}</a></li>   
             <li><a href="https://fast.com/" class="footer_text footer_a">{{__('language.footer15')}}</a></li>
             <li><a href=@if( Config::get("app.locale") == 'en') "/notices" @else "/in-hi/notices" @endif class="footer_text footer_a">{{__('language.footer16')}}</a></li>
             <li><a href=@if( Config::get("app.locale") == 'en') "/shows" @else "/in-hi/shows" @endif class="footer_text footer_a">{{__('language.footer17')}}</a></li>
